@@ -1,5 +1,6 @@
 Class A
   def a_methods
-  puts ‘Hello’
+    a = 1
+    puts a
   end
 end
