@@ -4,3 +4,5 @@ Class A
     puts a
   end
 end
+
+end
